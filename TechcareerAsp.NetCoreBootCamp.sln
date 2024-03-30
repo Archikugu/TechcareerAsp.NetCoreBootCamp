@@ -5,7 +5,11 @@ VisualStudioVersion = 17.10.34707.107
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day1", "Day1", "{488A3E86-FCDC-4FC6-9C13-5B637437C68F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPProject", "Day1\OOPProject\OOPProject.csproj", "{8C74ECDB-1B42-46D2-8836-9B9511D8B6BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOPProject", "Day1\OOPProject\OOPProject.csproj", "{8C74ECDB-1B42-46D2-8836-9B9511D8B6BC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day2", "Day2", "{4976D5D0-E71E-4F63-8FB3-126D419AABF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPProject2", "Day2\OOPProject2\OOPProject2.csproj", "{AEC37F37-8289-47A2-A023-5FAEE8E01F89}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +21,17 @@ Global
 		{8C74ECDB-1B42-46D2-8836-9B9511D8B6BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C74ECDB-1B42-46D2-8836-9B9511D8B6BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C74ECDB-1B42-46D2-8836-9B9511D8B6BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEC37F37-8289-47A2-A023-5FAEE8E01F89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEC37F37-8289-47A2-A023-5FAEE8E01F89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEC37F37-8289-47A2-A023-5FAEE8E01F89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEC37F37-8289-47A2-A023-5FAEE8E01F89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{8C74ECDB-1B42-46D2-8836-9B9511D8B6BC} = {488A3E86-FCDC-4FC6-9C13-5B637437C68F}
+		{AEC37F37-8289-47A2-A023-5FAEE8E01F89} = {4976D5D0-E71E-4F63-8FB3-126D419AABF4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A399BE18-7594-4468-A6DB-D871BA3E7E67}

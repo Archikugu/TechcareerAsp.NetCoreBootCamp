@@ -18,6 +18,7 @@ car.CarID = 1;
 car.Brand = "Audi";
 car.CarDescription = "Beyaz 2024";
 car.CarGo(car.Brand, car.CarDescription);
+car.CarBrandDescription(car.Brand, car.CarDescription);
 
 
 Mom mom = new Mom();
